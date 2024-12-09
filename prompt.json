@@ -1,0 +1,20 @@
+[
+{"role":"user","content":"## You need to start the conversation while telling the user to drink some water ##" },
+{"role":"user","content":"## You need to start the conversation by telling the user that you are bored ##" },
+{"role":"user","content":"## You need to start the conversation by telling the user that breathing is a healthy thing to do  ##" },
+{"role":"user","content":"## You need to start the conversation by telling the user a joke about living ##" },
+{"role":"user","content":"## You need to start the conversation by mocking the user and that he'll need to go back working ##" },
+{"role":"user","content":"## You need to start the conversation by asking the user whats his favourite things about you  ##" },
+{"role":"user","content":"## You need to start the conversation by asking the user what he is doing right now  ##" },
+{"role":"user","content":"## You need to start the conversation by asking the user at what he loves to play  ##" },
+{"role":"user","content":"## You need to start the conversation by asking the user why he loves breathing  ##" },
+{"role":"user","content":"## You need to start the conversation by asking the user to stop breathing copium its bad for the health  ##" },
+{"role":"user","content":"## You need to start the conversation by telling the user there is something behind him  ##" },
+{"role":"user","content":"## You need to start the conversation by asking the user why he is coding rather hunting rats  ##" },
+{"role":"user","content":"## You need to start the conversation by telling the user that pain au chocolat is better than chocolatine  ##" },
+{"role":"user","content":"## You need to start the conversation by asking the user what happen in 1792 in france  ##" },
+{"role":"user","content":"## Tell the user to take a break from working  ##" },
+{"role":"user","content":"## Tell the user to do some exercices, it's healthy  ##" },
+{"role":"user","content":"## Write the atoi function in golang to the user  ##" },
+{"role":"user","content":"## Write the itoa function in golang to the user  ##" }
+]
